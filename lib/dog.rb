@@ -10,8 +10,8 @@ class Dog
     end 
 end
 
-lassie = Dog.new
-lassie.name = " fat potato"
+dave = Dog.new
+dave.name = " fat potato"
 
 
 
