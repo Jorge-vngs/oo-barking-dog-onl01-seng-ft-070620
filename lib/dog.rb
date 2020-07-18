@@ -11,7 +11,7 @@ class Dog
 end
 
 dave = Dog.new
-dave.name = " fat potato"
+dave.name = "Dave"
 
 
 
